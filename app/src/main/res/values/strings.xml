@@ -1,0 +1,7 @@
+<resources>
+    <string name="test_ad_unit_id">ca-app-pub-2412876219430673/4320894148</string>
+    <string name="app_name">IAP House Ads</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
